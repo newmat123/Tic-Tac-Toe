@@ -14,7 +14,7 @@ table {
 	position: absolute;
 	left: 50%;
 	margin-left: -155px;
-	top: 200px;
+	top: 100px;
 }
 
 button {
@@ -28,7 +28,7 @@ button {
 	cursor: pointer;
 
 	position: absolute;
-	margin-top: 600px;
+	margin-top: 450px;
 	left: 50%;
 	margin-left: -250px;
 }
